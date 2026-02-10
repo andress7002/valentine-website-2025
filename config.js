@@ -28,7 +28,7 @@ const CONFIG = {
         },
         second: {
             text: "Cuanto me amas?",                          // For the love meter
-            startText: "Cuanto amor?",                                   // Text before the percentage
+            startText: "Tanto amor?",                                   // Text before the percentage
             nextBtn: "Siguiente ❤️"                                         // Text for the next button
         },
         third: {
@@ -49,7 +49,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Si amor! Soy la persona con la cita mas hermosa del planeta 🎉💝💖💝💓",
-        message: "Ahora ven por tu regalo y nos abrazamos y más 😳",
+        message: "Ahora ven por tu regalo, abrazos y más 😳",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
